@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tosha</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="Girl in a jacket" width="400" >
+<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="Girl" width="400" align="right" >
 
 
 - 🔭 I’m currently mastering on **my skills**
