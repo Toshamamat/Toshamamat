@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="Girl" width="400" align="right" >
 
 
-- 🔭 I’m currently mastering on **my skills**
+- 🔭 I’m currently mastering **my skills**
 
 - 🌱 I’m currently learning **React.js**
 
